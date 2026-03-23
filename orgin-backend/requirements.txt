@@ -1,0 +1,13 @@
+fastapi
+uvicorn==0.29.0
+sqlalchemy
+pillow
+numpy
+python-multipart==0.0.9
+pydantic
+aiofiles==23.2.1
+scipy
+invisible-watermark==0.2.0
+google-generativeai
+opencv-python-headless
+PyWavelets
